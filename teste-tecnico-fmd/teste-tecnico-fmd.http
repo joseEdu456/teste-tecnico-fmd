@@ -1,0 +1,6 @@
+@teste_tecnico_fmd_HostAddress = http://localhost:5197
+
+GET {{teste_tecnico_fmd_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
